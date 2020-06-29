@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="626764ca-faf2-478d-b972-08b54516aa1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ipc_backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ipc_backend/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ipc_backend/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/ipc_backend/settings/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipc_backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ipc_backend/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +29,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ipc_backend/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
               <caret line="135" selection-start-line="135" selection-end-line="135" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ipc_backend/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <folding>
+                <element signature="e#635#667#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,10 +96,10 @@
         <option value="$PROJECT_DIR$/shared/migrations/0004_auto_20200628_1520.py" />
         <option value="$PROJECT_DIR$/formatos/models.py" />
         <option value="$PROJECT_DIR$/shared/api/urls.py" />
-        <option value="$PROJECT_DIR$/ipc_backend/urls.py" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/ipc_backend/settings/base.py" />
         <option value="$PROJECT_DIR$/ipc_backend/settings.py" />
+        <option value="$PROJECT_DIR$/ipc_backend/urls.py" />
       </list>
     </option>
   </component>
@@ -201,12 +211,12 @@
       <workItem from="1592962884356" duration="3528000" />
       <workItem from="1593226948326" duration="4193000" />
       <workItem from="1593268383617" duration="3002000" />
-      <workItem from="1593355997591" duration="6337000" />
+      <workItem from="1593355997591" duration="6982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35433000" />
+    <option name="totallyTimeSpent" value="36078000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -219,6 +229,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="697" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29827315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -422,13 +433,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ipc_backend/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -454,6 +458,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ipc_backend/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <element signature="e#635#667#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
