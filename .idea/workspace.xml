@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="626764ca-faf2-478d-b972-08b54516aa1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/dbrouters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared_remote/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ipc_backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ipc_backend.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ipc_backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ipc_backend/_settings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ipc_backend/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/ipc_backend/settings/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ipc_backend/settings/local.py" beforeDir="false" afterPath="$PROJECT_DIR$/ipc_backend/settings/local.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ipc_backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ipc_backend/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements_dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements_dev.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/formatos/api/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="67">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -181,9 +170,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="357" />
-    <option name="y" value="187" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
@@ -193,7 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,48 +188,11 @@
               <item name="ipc_backend" type="b2602c69:ProjectViewProjectNode" />
               <item name="ipc_backend" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ipc_backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ipc_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ipc_backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ipc_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="formatos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ipc_backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ipc_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="formatos" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ipc_backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ipc_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="ipc_backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ipc_backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ipc_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="ipc_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="settings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ipc_backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ipc_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="shared_remote" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ipc_backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ipc_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="shared_remote" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -324,11 +274,12 @@
       <workItem from="1593968721842" duration="10303000" />
       <workItem from="1594044020710" duration="2555000" />
       <workItem from="1594184580615" duration="855000" />
+      <workItem from="1594225397215" duration="1235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55984000" />
+    <option name="totallyTimeSpent" value="57219000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,9 +292,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15506808" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15733737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -356,7 +306,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5450082" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5450082" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="manage.py@ipc_backend" order="12" weight="0.38538206" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.3289689" />
@@ -572,6 +522,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/shared_remote/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatos/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="34" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatos/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="23" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatos/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ipc_backend/settings/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -599,47 +586,10 @@
     <entry file="file://$PROJECT_DIR$/shared_remote/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/shared_remote/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/formatos/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="34" selection-end-column="81" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/formatos/api/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="22" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/formatos/api/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="23" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/formatos/api/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="67">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
