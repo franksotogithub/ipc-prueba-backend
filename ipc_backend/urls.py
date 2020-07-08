@@ -24,5 +24,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 
     url(r'api/formatos/',include('formatos.api.urls',namespace='api_formatos')),
-    url(r'api/shared/',include('shared.api.urls',namespace='api_shared'))
+    url(r'api/shared/',include('shared.api.urls',namespace='api_shared')),
+    url(r'api/shared_remote/',include('shared_remote.api.urls',namespace='api_shared_remote'))
 ] + static(settings.STATIC_URL,document_root=settings.STATIC_ROOT)

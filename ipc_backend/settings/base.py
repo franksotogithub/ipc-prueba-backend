@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'formatos',
-    'shared'
+    'shared',
+    'shared_remote',
 ]
 
 MIDDLEWARE = [
